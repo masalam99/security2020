@@ -29,4 +29,14 @@
 
        Step 4. Set the "Java runtime parameters" with the value "-Xmx256m -Dsun.java2d.d3d=false".
 
+**ACS (Access Control System):**
 
+[ACS 5.6](https://www.cisco.com/c/en/us/support/security/secure-access-control-system/tsd-products-support-series-home.html)
+
+**VirtualBox:**
+
+[VirtualBox download](https://www.virtualbox.org/wiki/Downloads)
+
+**License Administration Portal**
+
+[License Administration Portal](https://slexui.cloudapps.cisco.com/SWIFT/LicensingUI/Quickstart).
